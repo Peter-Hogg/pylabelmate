@@ -1,0 +1,10 @@
+site_name: pyLabelMate
+site_description: Plugin to help aid with the creation and export of ground truth labels
+site_author: Peter Hogg
+
+theme: readthedocs
+
+repo_url: https://github.com/peter-hogg/pyLabelMate
+
+pages:
+- Home: index.md
